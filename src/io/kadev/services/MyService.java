@@ -10,6 +10,9 @@ import io.kadev.models.Pro;
 
 public class MyService {
 	
+	/*
+	 * C'est la fonction principale pour générer une facture à un client
+	 * */
 	public Facture genererFacture(Client client) {
 		Map<String,Double> tarif = obtenirFacturation(client);
 		
