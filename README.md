@@ -31,8 +31,6 @@ git clone https://github.com/KadimiHamza99/TechnicalTestEkwateur.git
 
 ### Captures d'ecran <a name = "captures"></a>
 
--Code de test:
 ![Code de test](TEST.png)
 
--Execution:
 ![Execution](Execution.png)
