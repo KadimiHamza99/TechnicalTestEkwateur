@@ -34,5 +34,5 @@ git clone https://github.com/KadimiHamza99/TechnicalTestEkwateur.git
 -Code de test:
 ![Code de test](TEST.png)
 
-Execution:
+-Execution:
 ![Execution](Execution.png)
